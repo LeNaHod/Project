@@ -87,6 +87,11 @@ Member4: 발표 & 지역별 대여현황 데이터 수집, 분석, 시각화
 # Result
 Django로 구현한 대시보드
 
+![시연1](./project_1_1.gif)
+
+![시연2](./project1_2.gif)
+
+![시연3](./project1_3.gif)
 
 
 
