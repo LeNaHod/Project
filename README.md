@@ -85,7 +85,9 @@ Member4: 발표 & 지역별 대여현황 데이터 수집, 분석, 시각화
 - JavaScript(서비스개발)
 
 # Result
-Django로 구현한 대시보드 
+Django로 구현한 대시보드
 
-[대시보드(1조)](http://joohyoung.pythonanywhere.com/)
+
+
+
  
